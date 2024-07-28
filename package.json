@@ -1,0 +1,16 @@
+{
+  "name": "kasirku-main",
+  "version": "1.0.0",
+  "description": "Dashboard Kasir ![kasirku](https://github.com/mramadhanurh/kasirku/blob/ce58715af875ba2ff0c068867a07542676708f33/img.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
